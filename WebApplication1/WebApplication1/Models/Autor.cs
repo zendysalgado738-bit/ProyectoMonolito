@@ -8,6 +8,6 @@
 
         public string Nacionalidad { get; set; } = string.Empty;
 
-        public List<Libro> Libros { get; set; } = new();
+       
     }
 }
